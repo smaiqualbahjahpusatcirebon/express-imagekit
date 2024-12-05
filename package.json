@@ -6,7 +6,9 @@
   "scripts": {
     "start": "wrangler dev",
     "build": "wrangler build",
-    "deploy": "wrangler publish"
+    "deploy": "wrangler publish",
+    "s": "node index.js",
+    
   },
   "keywords": [],
   "author": "",
