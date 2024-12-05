@@ -1,0 +1,17 @@
+{
+  "name": "express-api-imagekit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "express": "^4.21.1",
+    "imagekit": "^5.2.0"
+  }
+}
