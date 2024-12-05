@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "wrangler dev",
+    "build": "wrangler build",
+    "deploy": "wrangler publish"
   },
   "keywords": [],
   "author": "",
